@@ -5,12 +5,12 @@ A fully functional *Sentiment Analysis Platform* that allows users to input text
 > 🏆 This project was built as part of a *Hackathon organized by CSVTU Bhilai*.
 
 <p align="center">
-  <img src="images/img1.gif" alt="App Demo" width="700"/>
-  <img src="images/img2.gif" alt="App Demo" width="700"/>
-  <img src="images/img3.gif" alt="App Demo" width="700"/>
-  <img src="images/img4.gif" alt="App Demo" width="700"/>
-  <img src="images/img5.gif" alt="App Demo" width="700"/>
-  <img src="images/img6.gif" alt="App Demo" width="700"/>
+  <img src="images/Image 1.jpg" alt="App Demo" width="700"/>
+  <img src="images/Image 2.jpg" alt="App Demo" width="700"/>
+  <img src="images/Image 3.jpg" alt="App Demo" width="700"/>
+  <img src="images/Image 4.jpg" alt="App Demo" width="700"/>
+  <img src="images/Image 5.jpg" alt="App Demo" width="700"/>
+  <img src="images/Image 6.jpg" alt="App Demo" width="700"/>
 </p>
 
 ---
